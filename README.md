@@ -1,3 +1,3 @@
-# Projects
-My Completed Codes
+# Brick Breaker
+
 Brick breaker game using JavaScript in HTML
